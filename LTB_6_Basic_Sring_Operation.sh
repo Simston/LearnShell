@@ -20,12 +20,6 @@ ISAY=${ISAY:0:SUBWET+2}
 
 
 
-
-
-
-
-
-
 # Test code - do not modify
 echo "Warren Buffett said:"
 echo $BUFFETT
