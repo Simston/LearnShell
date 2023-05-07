@@ -1,5 +1,5 @@
 # LearnShell
 My exercises on learnshell.org
 
-Just simple exercises for learn shell and git.
+Simple exercises to learn Shell and also work with Git
 These are amazing things !
